@@ -6,7 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ce6b8b1-d589-4d39-ac84-8a8c18e6f3e0" name="Default Changelist" comment="" />
+    <list default="true" id="0ce6b8b1-d589-4d39-ac84-8a8c18e6f3e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EightJanuarySpringMVC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/EightJanuarySpringMVC.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/EightJanuarySpringMVC.war" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +23,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="630">
               <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
             </state>
           </provider>
@@ -47,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="119">
               <caret line="25" column="77" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,14 +69,8 @@
             <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,16 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.configuration/HomeIntializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="150">
               <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -104,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.configuration/HomeConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="150">
               <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -121,6 +114,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -164,95 +160,41 @@
     <option name="width" value="1082" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringWithHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringWithHibernate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringWithHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringWithHibernate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringWithHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringWithHibernate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.stackroute.configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.stackroute.controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.stackroute.domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EightJanuarySpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EightJanuarySpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546967958008" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/maven-archiver" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547096378377" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -275,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Smart Tomcat.Tomcat">
+  <component name="RunManager" selected="Smart Tomcat.TOMCAT">
     <configuration name="EightJanuarySpringMVC [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -301,7 +243,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+    <configuration name="TOMCAT" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="DOC_BASE" value="$PROJECT_DIR$/target/EightJanuarySpringMVC" />
       <option name="CONTEXT_PATH" value="/" />
       <option name="TOMCAT_PORT" value="8080" />
@@ -311,7 +253,9 @@
       <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EightJanuarySpringMVC" />
+        </option>
       </method>
     </configuration>
     <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
@@ -327,8 +271,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Smart Tomcat.Tomcat" />
       <item itemvalue="Maven.EightJanuarySpringMVC [package]" />
+      <item itemvalue="Smart Tomcat.TOMCAT" />
     </list>
     <recent_temporary>
       <list>
@@ -352,20 +296,22 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
+      <window_info id="DB Browser" />
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -381,24 +327,11 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.domain/Usew.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="630">
           <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.domain/Usew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -406,6 +339,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -426,16 +366,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.configuration/HomeIntializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.configuration/HomeConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="150">
           <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -443,24 +390,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.configuration/HomeIntializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/EightJanuarySpringMVC.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="119">
           <caret line="25" column="77" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
